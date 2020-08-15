@@ -88,6 +88,29 @@
   },
   {
     "item": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "replaces": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "replacedBy": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333283$FCBA7CF7-F5A5-4537-BAC9-51D31939E5AB"
+  },
+  {
+    "item": {
       "value": "Q332994",
       "label": "Dominic Grieve"
     },
@@ -136,6 +159,14 @@
     "item": {
       "value": "Q334155",
       "label": "Sadiq Khan"
+    },
+    "replaces": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replacedBy": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
     },
     "start": {
       "value": "2010-10-08T00:00:00Z",
