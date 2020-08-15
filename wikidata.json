@@ -1,0 +1,211 @@
+[
+  {
+    "item": {
+      "value": "Q391341",
+      "label": "Andy Slaughter"
+    },
+    "statement": "Q391341$94FD8890-6776-43F6-A0B0-3C9DA70CA90C"
+  },
+  {
+    "item": {
+      "value": "Q269449",
+      "label": "Bill Cash"
+    },
+    "replacedBy": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "start": {
+      "value": "2003-07-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q269449$BF8D0FF9-5375-4EFB-9439-C2B527032428"
+  },
+  {
+    "item": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replaces": {
+      "value": "Q269449",
+      "label": "Bill Cash"
+    },
+    "replacedBy": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "start": {
+      "value": "2003-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302417$4C5ED42B-00FF-4337-A4C3-96C73A8CA93A"
+  },
+  {
+    "item": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "replaces": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "start": {
+      "value": "2004-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-05-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q478711$E01495B4-BA0E-4FE2-A9FC-75B16F99C4E8"
+  },
+  {
+    "item": {
+      "value": "Q478711",
+      "label": "Oliver Heald"
+    },
+    "replacedBy": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "start": {
+      "value": "2007-05-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q478711$B53BA3DA-F534-4D1B-B638-ECA0FDA325B0"
+  },
+  {
+    "item": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "replaces": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "replacedBy": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "start": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332994$AC2D0BA4-6932-46DF-AF21-BC13A736B1D0"
+  },
+  {
+    "item": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replaces": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "replacedBy": {
+      "value": "Q334155",
+      "label": "Sadiq Khan"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q311278$BEBF9DE8-5F2B-46F2-8552-10C48A0C0724"
+  },
+  {
+    "item": {
+      "value": "Q334155",
+      "label": "Sadiq Khan"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334155$0e2c36f3-4125-cd7e-c52d-3fde5ba3039c"
+  },
+  {
+    "item": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
+    "replaces": {
+      "value": "Q334155",
+      "label": "Sadiq Khan"
+    },
+    "replacedBy": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
+    "start": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337117$52660058-C921-4398-B1EC-D9FDD50E0C23"
+  },
+  {
+    "item": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
+    "replaces": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
+    "replacedBy": {
+      "value": "Q534727",
+      "label": "David Lammy"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19871710$06c51dff-4f80-59ff-cb52-3fe84988871c"
+  },
+  {
+    "item": {
+      "value": "Q534727",
+      "label": "David Lammy"
+    },
+    "replaces": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q534727$f9f5296f-4b1f-ae8d-1b9e-1a6edb56ed73"
+  }
+]
